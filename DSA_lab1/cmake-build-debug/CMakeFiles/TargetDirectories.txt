@@ -1,0 +1,3 @@
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/cmake-build-debug/CMakeFiles/DSA_lab1.dir
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

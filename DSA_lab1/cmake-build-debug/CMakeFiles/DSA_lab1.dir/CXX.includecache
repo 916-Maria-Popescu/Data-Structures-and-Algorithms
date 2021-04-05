@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/App.cpp
+ExtendedTest.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/ExtendedTest.h
+ShortTest.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/ShortTest.h
+FixedCapBiMap.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMap.h
+iostream
+-
+
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/ExtendedTest.cpp
+ExtendedTest.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/ExtendedTest.h
+FixedCapBiMap.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMap.h
+FixedCapBiMapIterator.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMapIterator.h
+cassert
+-
+iostream
+-
+
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/ExtendedTest.h
+
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMap.cpp
+FixedCapBiMap.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMap.h
+FixedCapBiMapIterator.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMapIterator.h
+exception
+-
+
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMap.h
+utility
+-
+
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMapIterator.cpp
+FixedCapBiMap.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMap.h
+FixedCapBiMapIterator.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMapIterator.h
+exception
+-
+
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMapIterator.h
+FixedCapBiMap.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMap.h
+
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/ShortTest.cpp
+ShortTest.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/ShortTest.h
+assert.h
+-
+FixedCapBiMap.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMap.h
+FixedCapBiMapIterator.h
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/FixedCapBiMapIterator.h
+utility
+-
+
+C:/Users/Maria/Desktop/Facultate/2nd semester/DSA(Data strucures and Algorithms)/DSA_lab1/ShortTest.h
+
